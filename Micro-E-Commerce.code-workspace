@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "broker-service"
+		},
+		{
+			"path": "carts-service"
+		},
+		{
+			"path": "orders-service"
+		},
+		{
+			"path": "products-service"
+		},
+		{
+			"path": "project"
+		},
+		{
+			"path": "reviews-service"
+		},
+		{
+			"path": "users-service"
+		}
+	],
+	"settings": {}
+}
